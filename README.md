@@ -1,6 +1,10 @@
 # latin-reader-glasses
 Augmented Reality Glasses for Latin
 
+## Etapa Inicial
+
+Para aquecer novamente meus conhecimentos de C++, vou fazer um pequeno projeto. Esse projeto será uma versão modificada de [donut.c](https://www.a1k0n.net/2011/07/20/donut-math.html) para cpp e também um cubo com um buraco no meio
+
 ## Objetivo
 
 Este projeto tem como objetivo desenvolver um óculos de realidade aumentada capaz de identificar textos em latim no campo de visão do usuário e exibir sua tradução em tempo real, sobreposta à cena observada. A primeira versão do projeto conta com realidade aumentada em apenas um dos lados (monocular), como forma de simplificar a construção física sem comprometer a validação do conceito.
