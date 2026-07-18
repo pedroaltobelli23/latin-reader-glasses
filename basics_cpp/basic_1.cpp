@@ -1,8 +1,7 @@
+#include "add.h"
 #include <iostream>
 #include <vector>
 #include <string>
-
-int add(int a, int b);
 
 int main()
 {
@@ -13,7 +12,7 @@ int main()
     std::cin >> x;
     
     // Pode ser escrito dessa forma também: int new_x = x*2;
-    int new_x {add(x, 45)};
+    int new_x {add(x, x)};
 
     std::cout << "O dobro do valor inserido foi: " << new_x << '\n';
     return 0;

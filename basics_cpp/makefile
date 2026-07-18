@@ -1,7 +1,7 @@
 CXX = g++
 CXXFLAGS = -std=c++17 -Wall -g
 TARGET = programa
-SRCS = basic_1.cpp add.cpp
+SRCS = basic_1.cpp add.cpp add.h
 
 all: $(TARGET)
 
