@@ -3,7 +3,12 @@ Augmented Reality Glasses for Latin
 
 ## Etapa Inicial
 
-Para aquecer novamente meus conhecimentos de C++, vou fazer um pequeno projeto. Esse projeto será uma versão modificada de [donut.c](https://www.a1k0n.net/2011/07/20/donut-math.html) para cpp e também um cubo com um buraco no meio
+Para aquecer novamente meus conhecimentos de C++ (SEM IA PARA O CÓDIGO):
+- Pequeno projeto que é uma versão modificada de [donut.c](https://www.a1k0n.net/2011/07/20/donut-math.html), para ser um cubo, tetaedro e uma piramide triangular rodando no proprio eixo, e andando de um lado para o outro
+- 5 algoritmos de sort, com representação visual
+- servidor TCP multithread (será usado posteriormente para a conexão entre o raspberryPI e o ESP32)
+- Parser de JSON do zero
+- Compressor de arquivos simples (RLE e Huffman)
 
 ## Objetivo
 
